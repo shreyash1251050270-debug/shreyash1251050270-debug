@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=36&pause=1200&color=EAEAEA&background=00000000&center=true&vCenter=true&width=700&height=75&lines=I'm+SHREYASH" alt="Shreyash Havinal"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&size=17&duration=4000&pause=2000&color=8A8A8A&background=00000000&center=true&vCenter=true&width=650&height=40&lines=Security+begins+with+understanding+both+%E2%80%94+SYSTEMS+%26+SOULS" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&size=17&color=8A8A8A&background=00000000&center=true&vCenter=true&width=650&height=40&lines=Security+begins+with+understanding+both+%E2%80%94+SYSTEMS+%26+SOULS" alt="tagline"/>
 
 <br/>
 
