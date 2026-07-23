@@ -42,15 +42,21 @@
 ### *Smart Sign Language Glove*
 **ESP32 · flex sensors · MPU6050 · bluetooth**
 <br/>
-Wearable that translates hand gestures into speech, streaming sensor data over Bluetooth to a Python TTS companion.
+A wearable that reads hand gestures and speaks them aloud — flex sensors capture finger position, an MPU6050 tracks hand orientation, and the ESP32 fuses both into recognizable signs in real time.
+<br/><br/>
+Signal data streams over Bluetooth Serial to a Windows companion script (`pyttsx3` + PowerShell) that converts recognized gestures into speech — a deliberate pivot away from an earlier DFPlayer Mini audio module, chosen for lower latency and simpler hardware.
+<br/><br/>
+<sub><i>single-file hardware build · no public repo — one firmware sketch, not a multi-file project</i></sub>
 
 <br/>
 
 ### *BioAuth*
 **Python · PyQt6**
 <br/>
-Biometric authentication desktop application, rebuilt with a clinical, precision-first interface.
-<br/>
+A biometric authentication desktop application built to feel clinical and precise — every interaction designed around trust and verification rather than decoration.
+<br/><br/>
+Originally prototyped in Tkinter, the entire interface was rebuilt in PyQt6 for a sharper, more native look — cleaner widgets, tighter spacing, and a visual language suited to a security-first tool.
+<br/><br/>
 <sub><i>private repository</i></sub>
 
 <br/>
@@ -60,7 +66,7 @@ Biometric authentication desktop application, rebuilt with a clinical, precision
 <br/>
 Browser-based image steganography tool — nothing leaves the client, nothing is what it seems.
 <br/>
-<a href="https://github.com/aryan1251050033-lang/Steganography---Invisible-Ink.git"><sub><i>↳ repository</i></sub></a>
+<a href="https://github.com/shreyash1251050270-debug"><sub><i>↳ repository</i></sub></a>
 
 <br/>
 
@@ -69,7 +75,7 @@ Browser-based image steganography tool — nothing leaves the client, nothing is
 <br/>
 Real-time air quality tracker across Indian cities, built around a quiet, typographic system.
 <br/>
-<a href="https://github.com/shreyash1251050270-debug/AQI-predictor.git"><sub><i>↳ repository</i></sub></a>
+<a href="https://github.com/shreyash1251050270-debug"><sub><i>↳ repository</i></sub></a>
 
 <br/><br/>
 
