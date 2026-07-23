@@ -60,7 +60,7 @@ Biometric authentication desktop application, rebuilt with a clinical, precision
 <br/>
 Browser-based image steganography tool — nothing leaves the client, nothing is what it seems.
 <br/>
-<a href="https://github.com/shreyash1251050270-debug"><sub><i>↳ repository</i></sub></a>
+<a href="https://github.com/aryan1251050033-lang/Steganography---Invisible-Ink.git"><sub><i>↳ repository</i></sub></a>
 
 <br/>
 
@@ -69,7 +69,7 @@ Browser-based image steganography tool — nothing leaves the client, nothing is
 <br/>
 Real-time air quality tracker across Indian cities, built around a quiet, typographic system.
 <br/>
-<a href="https://github.com/shreyash1251050270-debug"><sub><i>↳ repository</i></sub></a>
+<a href="https://github.com/shreyash1251050270-debug/AQI-predictor.git"><sub><i>↳ repository</i></sub></a>
 
 <br/><br/>
 
